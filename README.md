@@ -3,4 +3,4 @@ In this repo I have implemented some openCV projects that are based on advanced 
 
 | No.| **Project Name** | **Link** | **Description** |
 |--- | --- | ---- | ------------|
-|1.| Mr India/Invisible Cloak | ()[https://github.com/yagyesh-bobde/Mr.India-Invisible-Cloak] | As the name suggests in this project you can have the experience of being invisible in a live feed. |
+|1.| Mr India/Invisible Cloak | https://github.com/yagyesh-bobde/Mr.India-Invisible-Cloak | As the name suggests in this project you can have the experience of being invisible in a live feed. |
